@@ -1,6 +1,6 @@
 {
-  "name": "react-native-template-typescript",
-  "version": "0.0.1",
+  "name": "rn-boiler-meliodas",
+  "version": "0.0.2",
   "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
   "scripts": {
     "test": "exit 0"
@@ -20,7 +20,7 @@
     "template",
     "boilerplate"
   ],
-  "author": "Emin Khateeb <emin@emin.ch>",
+  "author": "Duy Linh Dang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/emin93/react-native-template-typescript/issues"
